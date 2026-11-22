@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/icon.png" alt="PillPal icon" width="120">
-</p>
-
 <h1 align="center">💊 PillPal</h1>
 <p align="center"><i>scan your medicine, get reminded, stop forgetting</i></p>
 
@@ -13,30 +9,30 @@
 
 ---
 
-## 🩷 The idea
+## The idea
 
 A lot of people (myself included, honestly) forget to take their medicine on time. On top of that, reading those tiny labels and figuring out the schedule is kind of annoying. That's why I started PillPal.
 
 Basically, you point your phone camera at a medicine label, and the app reads it for you. Then, it sets up reminders so your phone tells you when it's time to take it.
 
-## 📌 What it does right now
+## What it does right now
 
 - **Scan a label.** You can take a photo with the camera or pick one from your gallery.
 - **Medication reminders.** PillPal asks for notification permission and then sends you a reminder (there's a test button so you can see how it looks).
 - **Simple navigation** between the home screen and the scanner.
 
-## 🔜 What's next
+## What's next
 
 Right now, the text reading part is still a placeholder, so the next big step is hooking up real OCR so it can actually pull the medicine name and dosage off the label. After that, I want to turn what it reads into an actual reminder schedule automatically, instead of just a test notification.
 
-## 🛠️ Built with
+## Built with
 
 - React Native and Expo
 - React Navigation
 - Expo Camera and Expo Image Picker
 - Expo Notifications
 
-## 🚀 Running it
+## Running it
 
 First, make sure you have Node.js installed, and also download the **Expo Go** app on your phone.
 
@@ -56,7 +52,7 @@ npx expo start
 
 Finally, scan the QR code that shows up with Expo Go, and the app will open on your phone.
 
-## 📁 Files
+## Files
 
 ```
 PillPal/
