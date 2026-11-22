@@ -15,11 +15,11 @@
 
 ## 🩷 The idea
 
-So, a lot of people (myself included, honestly) forget to take their medicine on time. On top of that, reading those tiny labels and figuring out the schedule is kind of annoying. That's why I started PillPal.
+A lot of people (myself included, honestly) forget to take their medicine on time. On top of that, reading those tiny labels and figuring out the schedule is kind of annoying. That's why I started PillPal.
 
 Basically, you point your phone camera at a medicine label, and the app reads it for you. Then, it sets up reminders so your phone tells you when it's time to take it.
 
-## ✨ What it does right now
+## 📌 What it does right now
 
 - **Scan a label.** You can take a photo with the camera or pick one from your gallery.
 - **Medication reminders.** PillPal asks for notification permission and then sends you a reminder (there's a test button so you can see how it looks).
